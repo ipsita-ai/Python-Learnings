@@ -25,6 +25,5 @@ There are two types of version control system :
     Global : All repositories of current user
     Local : The current repository
 
-To know the version of GIT on your system 
-GIT --VERSION
+To know the version of GIT on your system  : GIT --VERSION
       
