@@ -26,4 +26,7 @@ There are two types of version control system :
     Local : The current repository
 
 To know the version of GIT on your system  : GIT --VERSION
+
+<img width="455" alt="image" src="https://github.com/ipsita-ai/Python-Learnings/assets/117940627/9ce7bb1c-277a-4ba5-876b-75c96868bbc2">
+
       
